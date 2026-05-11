@@ -1,3 +1,5 @@
+package org.example;
+
 public class Shipment {
     private String shipmentId;
     private String customerId;

@@ -1,3 +1,5 @@
+package org.example;
+
 import java.io.*;
 import java.time.LocalDateTime;
 import java.util.Base64;
@@ -23,7 +25,7 @@ public class ShipTrackSystem {
     }
 
     // Notice we added "throws RegistrationException" to the method signature
-    public boolean registerUser(String username, String name, String id, String contact, User.Role role, String password) throws RegistrationException {
+    public User registerUser(String username, String name, String id, String contact, User.Role role, String password) throws RegistrationException {
 
         // Security Principle: Fail Securely with specific, safe messages
         if (users.containsKey(username)) {
@@ -52,7 +54,7 @@ public class ShipTrackSystem {
             saveAuthData();
             saveSensitivePII();
             AuditLogger.logAction(username, "REGISTER_SUCCESS");
-            return true; // Only returns true if everything succeeds
+            return newUser; // Only returns user object if everything succeeds
 
         } catch (Exception e) {
             AuditLogger.logError("SYSTEM", "REGISTER_SYSTEM_ERROR", e);

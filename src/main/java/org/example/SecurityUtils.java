@@ -1,3 +1,5 @@
+package org.example;
+
 import java.security.MessageDigest;
 import java.security.SecureRandom;
 import java.util.Base64;

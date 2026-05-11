@@ -1,3 +1,5 @@
+package org.example;
+
 import java.util.Scanner;
 
 public class Main {
@@ -83,15 +85,16 @@ public class Main {
         String password = sc.nextLine();
 
         try {
-            // Security Fix: Main menu registration is strictly for CUSTOMERS only
-            if (system.registerUser(username, name, id, contact, User.Role.CUSTOMER, password)) {
-                System.out.println(" Registered successfully!");
-            }
+            User registeredUser = system.registerUser(username, name, id, contact, User.Role.CUSTOMER, password);
+
+            System.out.println(" Registered successfully!");
+
+            routeByRole(registeredUser);
+
         } catch (RegistrationException e) {
             System.out.println(" Registration Failed: " + e.getMessage());
         }
     }
-
     private static void routeByRole(User user) {
         System.out.println("\n Logged in as: " + user.getUsername() + " | Role: " + user.getRole());
 
@@ -177,9 +180,9 @@ public class Main {
                     String p = sc.nextLine();
                     try {
                         system.registerUser(u, n, i, c, User.Role.DELIVERY_PERSONNEL, p);
-                        System.out.println(" Registered successfully!");
+                        System.out.println(" Delivery personnel registered!");
                     } catch (RegistrationException e) {
-                        System.out.println(" Registration failed: " + e.getMessage());
+                        System.out.println(" Registration Failed: " + e.getMessage());
                     }
                     break;
                 case "U":
@@ -272,14 +275,12 @@ public class Main {
                     System.out.print("ID: ");
                     String i = sc.nextLine();
                     System.out.print("Contact: ");
-                    String cc = sc.nextLine();
+                    String c1 = sc.nextLine();
                     System.out.print("Password: ");
                     String p = sc.nextLine();
-
                     try {
-                        if (system.registerUser(u, n, i, cc, role, p)) {
-                            System.out.println(" Staff registered successfully!");
-                        }
+                        system.registerUser(u, n, i, c1, role, p);
+                        System.out.println(" Staff registered successfully!");
                     } catch (RegistrationException e) {
                         System.out.println(" Registration Failed: " + e.getMessage());
                     }

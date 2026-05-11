@@ -1,3 +1,5 @@
+package org.example;
+
 public class User {
     public enum Role {
         CUSTOMER, DISPATCHER, DELIVERY_PERSONNEL, SYSTEM_ADMIN
