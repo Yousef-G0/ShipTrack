@@ -1,0 +1,2084 @@
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:29 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: CUSTOMER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logAction
+INFO: User: SYSTEM | Action: UNAUTHORIZED_REMOVE_ATTEMPT
+May 14, 2026 10:54:30 PM org.example.AuditLogger logSecurityAlert
+SEVERE: SECURITY ALERT | User: DISPATCHER | Action: UNAUTHORIZED_LOCK_ATTEMPT
