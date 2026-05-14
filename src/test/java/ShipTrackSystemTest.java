@@ -40,7 +40,7 @@ public class ShipTrackSystemTest {
 
     @Test
     public void testRegisterCustomerSuccess() throws RegistrationException {
-        boolean result = system.registerUser("cust1", "Customer One", "ID1", "123", User.Role.CUSTOMER, "Cust@123");
+        boolean result = system.registerUser("cust1", "Customer One", "ID1", "123", User.Role.CUSTOMER, "Cust@123").isLocked();
         assertTrue(result, "Customer should register successfully with valid password");
     }
 
