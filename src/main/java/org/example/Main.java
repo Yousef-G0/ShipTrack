@@ -42,7 +42,7 @@ public class Main {
         while (true) {
             System.out.println("\n=== ShipTrack ===");
             System.out.println("1. Login");
-            System.out.println("2. Register");
+            System.out.println("2. Register as a Customer");
             System.out.println("0. Exit");
             System.out.print("Choose: ");
             String choice = sc.nextLine().trim();

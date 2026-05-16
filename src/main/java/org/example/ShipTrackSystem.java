@@ -33,7 +33,14 @@ public class ShipTrackSystem {
         }
 
         if (!SecurityUtils.isValidPassword(password, minChars, minUpper, minLower, minDigits, minSpecial)) {
-            throw new RegistrationException("Password does not meet the security policy requirements.");
+            AuditLogger.logAction(username, "REGISTER_FAIL_POLICY");
+
+
+            String policyMsg = "Password Policy: Minimum " + minChars + " chars, " +
+                    minUpper + " uppercase, " + minLower + " lowercase, " +
+                    minDigits + " digit, " + minSpecial + " special character.";
+
+            throw new RegistrationException("Password does not meet security requirements. " + policyMsg);
         }
         if (users.containsKey(username)) {
             AuditLogger.logAction(username, "REGISTER_FAIL_DUPLICATE"); // Changed
@@ -84,7 +91,7 @@ public class ShipTrackSystem {
                 System.out.println(" Account locked due to too many failed attempts.");
                 AuditLogger.logAction(username, "ACCOUNT_LOCKED"); // Audit Log
             } else {
-                System.out.println(" Incorrect password. Attempts left: " + (user.getMaxLoginAttempts() - user.getFailedAttempts()));
+                System.out.println("Invalid username or password");
                 AuditLogger.logAction(username, "LOGIN_FAIL_PASSWORD"); // Audit Log
             }
             saveAuthData();
