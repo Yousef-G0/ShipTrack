@@ -15,6 +15,7 @@ public class User {
     private boolean isLocked;
     private int failedAttempts;
     private int maxLoginAttempts;
+    private long lastSudoTime = 0;
 
     public User(String username, String name, String idNumber, String contactNumber, Role role, int maxAttempts) {
         this.username = username;
@@ -48,4 +49,7 @@ public class User {
     public void setFailedAttempts(int failedAttempts) { this.failedAttempts = failedAttempts; }
     public int getMaxLoginAttempts() { return maxLoginAttempts; }
     public void setMaxLoginAttempts(int max) { this.maxLoginAttempts = max; }
+    public long getLastSudoTime() { return lastSudoTime; }
+    public void setLastSudoTime(long lastSudoTime) { this.lastSudoTime = lastSudoTime; }
+
 }

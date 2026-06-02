@@ -215,7 +215,30 @@ public class Main {
             }
         }
     }
+    // Helper method: Forces the user to type their password again to confirm actions
+    // 5 minutes in milliseconds (5 * 60 * 1000)
+    private static final long SUDO_TIMEOUT_MS = 5 * 60 * 1000;
 
+    // Helper method: Checks sudo timeout before asking for password
+    private static boolean reAuthenticate(User user) {
+        long currentTime = System.currentTimeMillis();
+
+        // Check if the last successful sudo was less than 5 minutes ago
+        if ((currentTime - user.getLastSudoTime()) < SUDO_TIMEOUT_MS) {
+            return true; // Trust the active sudo session, no password needed!
+        }
+
+        // If more than 5 minutes have passed, ask for the password
+        System.out.print("\n SECURITY: Re-enter your password to confirm this action: ");
+        String pass = sc.nextLine();
+
+        boolean isValid = system.verifyPassword(user, pass);
+        if (isValid) {
+            // Reset the 5-minute timer
+            user.setLastSudoTime(currentTime);
+        }
+        return isValid;
+    }
     private static void adminMenu(User user) {
         while (true) {
             System.out.println("\n[P]olicy Setup  [R]egister User  [D]elete User  [K]Lock/Unlock  [L]ogout");
@@ -223,6 +246,13 @@ public class Main {
                 String c = sc.nextLine().toUpperCase();
                 if (c.equals("L")) break;
                 else if (c.equals("P")) {
+
+                    // RE-AUTHENTICATION CHECK
+                    if (!reAuthenticate(user)) {
+                        System.out.println(" Incorrect password. Action cancelled.");
+                        continue;
+                    }
+
                     System.out.println("\n--- Password Policy Setup ---");
                     System.out.println("Current Policy:");
                     System.out.println("  Min Length      → 8");
@@ -285,33 +315,47 @@ public class Main {
                         System.out.println(" Registration Failed: " + e.getMessage());
                     }
                 } else if (c.equals("D")) {
-                System.out.print("Username to remove: ");
-                String target = sc.nextLine();
-                String info = system.getUserInfo(target);
 
-                // Check if user exists first
-                if (info.equals("User not found.")) {
-                    System.out.println("  " + info);
-                    continue;
-                }
-
-                System.out.println("  " + info);
-                System.out.print("Are you sure you want to delete this user? (yes/no): ");
-                String confirm = sc.nextLine().trim().toLowerCase();
-
-                if (confirm.equals("yes")) {
-                    // Capture the true/false result from the secure backend method
-                    boolean success = system.removeStaffUser(target, user.getRole());
-
-                    if (success) {
-                        System.out.println(" Staff member removed successfully.");
-                    } else {
-                        System.out.println(" Cannot remove this user. Admin can only remove Dispatchers and Delivery Personnel.");
+                    // RE-AUTHENTICATION CHECK
+                    if (!reAuthenticate(user)) {
+                        System.out.println(" Incorrect password. Action cancelled.");
+                        continue;
                     }
-                } else {
-                    System.out.println(" Cancelled.");
-                }
-            } else if (c.equals("K")) {
+
+                    System.out.print("Username to remove: ");
+                    String target = sc.nextLine();
+                    String info = system.getUserInfo(target);
+
+                    // Check if user exists first
+                    if (info.equals("User not found.")) {
+                        System.out.println("  " + info);
+                        continue;
+                    }
+
+                    System.out.println("  " + info);
+                    System.out.print("Are you sure you want to delete this user? (yes/no): ");
+                    String confirm = sc.nextLine().trim().toLowerCase();
+
+                    if (confirm.equals("yes")) {
+                        // Capture the true/false result from the secure backend method
+                        boolean success = system.removeStaffUser(target, user.getRole());
+
+                        if (success) {
+                            System.out.println(" Staff member removed successfully.");
+                        } else {
+                            System.out.println(" Cannot remove this user. Admin can only remove Dispatchers and Delivery Personnel.");
+                        }
+                    } else {
+                        System.out.println(" Cancelled.");
+                    }
+                } else if (c.equals("K")) {
+
+                    // RE-AUTHENTICATION CHECK
+                    if (!reAuthenticate(user)) {
+                        System.out.println(" Incorrect password. Action cancelled.");
+                        continue;
+                    }
+
                     System.out.print("Username to manage: ");
                     String target = sc.nextLine();
                     String info = system.getUserInfo(target);
@@ -320,7 +364,7 @@ public class Main {
 
                     System.out.print("What do you want to do? [L]ock  [U]nlock: ");
                     String action = sc.nextLine().toUpperCase();
-                    User targetUser = system.getUser(target); // You'll need to add this getter
+                    User targetUser = system.getUser(target);
                     if (action.equals("L") && !targetUser.isLocked()) {
                         system.toggleLock(target,user.getRole());
                         System.out.println(" Account LOCKED ");

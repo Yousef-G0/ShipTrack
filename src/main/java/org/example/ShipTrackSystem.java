@@ -46,15 +46,17 @@ public class ShipTrackSystem {
             AuditLogger.logAction(username, "REGISTER_FAIL_DUPLICATE"); // Changed
             throw new RegistrationException("Username already exists. Please choose another.");
         }
-
+        // Layer 1: Password Policy Enforcement
         if (!SecurityUtils.isValidPassword(password, minChars, minUpper, minLower, minDigits, minSpecial)) {
             AuditLogger.logAction(username, "REGISTER_FAIL_POLICY"); // Changed
             throw new RegistrationException("Password does not meet the security policy requirements.");
         }
         try {
             User newUser = new User(username, name, id, contact, role, maxLoginAttempts);
+            // Layer 2: Cryptographic Salting
             byte[] salt = SecurityUtils.generateSalt();
             newUser.setSalt(salt);
+            // Layer 3: SHA-256 Hashing
             newUser.setPasswordHash(SecurityUtils.hashPassword(password, salt));
 
             users.put(username, newUser);
@@ -86,6 +88,7 @@ public class ShipTrackSystem {
             return user;
         } else {
             user.incrementFailedAttempts();
+            // Layer 4: Account Lockout Mechanism (in login method)
             if (user.getFailedAttempts() >= user.getMaxLoginAttempts()) {
                 user.setLocked(true);
                 System.out.println(" Account locked due to too many failed attempts.");
@@ -109,7 +112,11 @@ public class ShipTrackSystem {
         savePolicyData(); // D3: password_policy.csv
         AuditLogger.logAction("SYSTEM", "POLICY_UPDATED"); // Audit Log
     }
-
+    // Security: Re-authentication method for sensitive admin actions
+    public boolean verifyPassword(User user, String attemptedPassword) {
+        String attemptHash = SecurityUtils.hashPassword(attemptedPassword, user.getSalt());
+        return user.getPasswordHash().equals(attemptHash);
+    }
 
     // Security Principle: Least Privilege & Authorization
     // Admin can ONLY remove Dispatchers or Delivery Personnel
