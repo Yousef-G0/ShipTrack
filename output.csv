@@ -1,0 +1,78 @@
+Problem,Package,File,Priority,Line,Description,Rule set,Rule
+1,org.example,C:\Users\yfeer\IdeaProjects\javaproject\src\main\java\org\example\AuditLogger.java,3,9,All methods are static. Consider adding a private no-args constructor to prevent instantiation.,Design,UseUtilityClass
+2,org.example,C:\Users\yfeer\IdeaProjects\javaproject\src\main\java\org\example\AuditLogger.java,2,36,Logger calls should be surrounded by log level guards.,Best Practices,GuardLogStatement
+3,org.example,C:\Users\yfeer\IdeaProjects\javaproject\src\main\java\org\example\AuditLogger.java,2,41,Logger calls should be surrounded by log level guards.,Best Practices,GuardLogStatement
+4,org.example,C:\Users\yfeer\IdeaProjects\javaproject\src\main\java\org\example\AuditLogger.java,2,46,Logger calls should be surrounded by log level guards.,Best Practices,GuardLogStatement
+1,org.example,C:\Users\yfeer\IdeaProjects\javaproject\src\main\java\org\example\Main.java,3,5,All methods are static. Consider adding a private no-args constructor to prevent instantiation.,Design,UseUtilityClass
+2,org.example,C:\Users\yfeer\IdeaProjects\javaproject\src\main\java\org\example\Main.java,3,50,"Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)",Best Practices,NonExhaustiveSwitch
+3,org.example,C:\Users\yfeer\IdeaProjects\javaproject\src\main\java\org\example\Main.java,3,71,This statement should have braces,Code Style,ControlStatementBraces
+4,org.example,C:\Users\yfeer\IdeaProjects\javaproject\src\main\java\org\example\Main.java,3,101,This statement should have braces,Code Style,ControlStatementBraces
+5,org.example,C:\Users\yfeer\IdeaProjects\javaproject\src\main\java\org\example\Main.java,3,102,This statement should have braces,Code Style,ControlStatementBraces
+6,org.example,C:\Users\yfeer\IdeaProjects\javaproject\src\main\java\org\example\Main.java,3,103,This statement should have braces,Code Style,ControlStatementBraces
+7,org.example,C:\Users\yfeer\IdeaProjects\javaproject\src\main\java\org\example\Main.java,3,104,This statement should have braces,Code Style,ControlStatementBraces
+8,org.example,C:\Users\yfeer\IdeaProjects\javaproject\src\main\java\org\example\Main.java,3,111,"When doing a String.toLowerCase()/toUpperCase() call, use a Locale",Error Prone,UseLocaleWithCaseConversions
+9,org.example,C:\Users\yfeer\IdeaProjects\javaproject\src\main\java\org\example\Main.java,3,113,"Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)",Best Practices,NonExhaustiveSwitch
+10,org.example,C:\Users\yfeer\IdeaProjects\javaproject\src\main\java\org\example\Main.java,3,145,"When doing a String.toLowerCase()/toUpperCase() call, use a Locale",Error Prone,UseLocaleWithCaseConversions
+11,org.example,C:\Users\yfeer\IdeaProjects\javaproject\src\main\java\org\example\Main.java,3,147,"Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)",Best Practices,NonExhaustiveSwitch
+12,org.example,C:\Users\yfeer\IdeaProjects\javaproject\src\main\java\org\example\Main.java,3,155,This statement should have braces,Code Style,ControlStatementBraces
+13,org.example,C:\Users\yfeer\IdeaProjects\javaproject\src\main\java\org\example\Main.java,3,156,This statement should have braces,Code Style,ControlStatementBraces
+14,org.example,C:\Users\yfeer\IdeaProjects\javaproject\src\main\java\org\example\Main.java,3,164,This statement should have braces,Code Style,ControlStatementBraces
+15,org.example,C:\Users\yfeer\IdeaProjects\javaproject\src\main\java\org\example\Main.java,3,165,This statement should have braces,Code Style,ControlStatementBraces
+16,org.example,C:\Users\yfeer\IdeaProjects\javaproject\src\main\java\org\example\Main.java,3,200,"When doing a String.toLowerCase()/toUpperCase() call, use a Locale",Error Prone,UseLocaleWithCaseConversions
+17,org.example,C:\Users\yfeer\IdeaProjects\javaproject\src\main\java\org\example\Main.java,3,202,Position literals first in String comparisons,Best Practices,LiteralsFirstInComparisons
+18,org.example,C:\Users\yfeer\IdeaProjects\javaproject\src\main\java\org\example\Main.java,3,202,This statement should have braces,Code Style,ControlStatementBraces
+19,org.example,C:\Users\yfeer\IdeaProjects\javaproject\src\main\java\org\example\Main.java,3,203,Position literals first in String comparisons,Best Practices,LiteralsFirstInComparisons
+20,org.example,C:\Users\yfeer\IdeaProjects\javaproject\src\main\java\org\example\Main.java,3,207,Position literals first in String comparisons,Best Practices,LiteralsFirstInComparisons
+21,org.example,C:\Users\yfeer\IdeaProjects\javaproject\src\main\java\org\example\Main.java,3,212,This statement should have braces,Code Style,ControlStatementBraces
+22,org.example,C:\Users\yfeer\IdeaProjects\javaproject\src\main\java\org\example\Main.java,3,213,This statement should have braces,Code Style,ControlStatementBraces
+23,org.example,C:\Users\yfeer\IdeaProjects\javaproject\src\main\java\org\example\Main.java,3,222,"When doing a String.toLowerCase()/toUpperCase() call, use a Locale",Error Prone,UseLocaleWithCaseConversions
+24,org.example,C:\Users\yfeer\IdeaProjects\javaproject\src\main\java\org\example\Main.java,3,223,Position literals first in String comparisons,Best Practices,LiteralsFirstInComparisons
+25,org.example,C:\Users\yfeer\IdeaProjects\javaproject\src\main\java\org\example\Main.java,3,223,This statement should have braces,Code Style,ControlStatementBraces
+26,org.example,C:\Users\yfeer\IdeaProjects\javaproject\src\main\java\org\example\Main.java,3,224,Position literals first in String comparisons,Best Practices,LiteralsFirstInComparisons
+27,org.example,C:\Users\yfeer\IdeaProjects\javaproject\src\main\java\org\example\Main.java,3,256,Position literals first in String comparisons,Best Practices,LiteralsFirstInComparisons
+28,org.example,C:\Users\yfeer\IdeaProjects\javaproject\src\main\java\org\example\Main.java,3,262,Position literals first in String comparisons,Best Practices,LiteralsFirstInComparisons
+29,org.example,C:\Users\yfeer\IdeaProjects\javaproject\src\main\java\org\example\Main.java,3,262,This statement should have braces,Code Style,ControlStatementBraces
+30,org.example,C:\Users\yfeer\IdeaProjects\javaproject\src\main\java\org\example\Main.java,3,263,Position literals first in String comparisons,Best Practices,LiteralsFirstInComparisons
+31,org.example,C:\Users\yfeer\IdeaProjects\javaproject\src\main\java\org\example\Main.java,3,263,This statement should have braces,Code Style,ControlStatementBraces
+32,org.example,C:\Users\yfeer\IdeaProjects\javaproject\src\main\java\org\example\Main.java,3,264,Position literals first in String comparisons,Best Practices,LiteralsFirstInComparisons
+33,org.example,C:\Users\yfeer\IdeaProjects\javaproject\src\main\java\org\example\Main.java,3,264,This statement should have braces,Code Style,ControlStatementBraces
+34,org.example,C:\Users\yfeer\IdeaProjects\javaproject\src\main\java\org\example\Main.java,3,288,Position literals first in String comparisons,Best Practices,LiteralsFirstInComparisons
+35,org.example,C:\Users\yfeer\IdeaProjects\javaproject\src\main\java\org\example\Main.java,3,294,Position literals first in String comparisons,Best Practices,LiteralsFirstInComparisons
+36,org.example,C:\Users\yfeer\IdeaProjects\javaproject\src\main\java\org\example\Main.java,3,301,"When doing a String.toLowerCase()/toUpperCase() call, use a Locale",Error Prone,UseLocaleWithCaseConversions
+37,org.example,C:\Users\yfeer\IdeaProjects\javaproject\src\main\java\org\example\Main.java,3,303,Position literals first in String comparisons,Best Practices,LiteralsFirstInComparisons
+38,org.example,C:\Users\yfeer\IdeaProjects\javaproject\src\main\java\org\example\Main.java,3,315,Position literals first in String comparisons,Best Practices,LiteralsFirstInComparisons
+39,org.example,C:\Users\yfeer\IdeaProjects\javaproject\src\main\java\org\example\Main.java,3,320,Position literals first in String comparisons,Best Practices,LiteralsFirstInComparisons
+40,org.example,C:\Users\yfeer\IdeaProjects\javaproject\src\main\java\org\example\Main.java,3,320,This statement should have braces,Code Style,ControlStatementBraces
+41,org.example,C:\Users\yfeer\IdeaProjects\javaproject\src\main\java\org\example\Main.java,3,323,"When doing a String.toLowerCase()/toUpperCase() call, use a Locale",Error Prone,UseLocaleWithCaseConversions
+42,org.example,C:\Users\yfeer\IdeaProjects\javaproject\src\main\java\org\example\Main.java,3,325,Position literals first in String comparisons,Best Practices,LiteralsFirstInComparisons
+43,org.example,C:\Users\yfeer\IdeaProjects\javaproject\src\main\java\org\example\Main.java,3,328,Position literals first in String comparisons,Best Practices,LiteralsFirstInComparisons
+44,org.example,C:\Users\yfeer\IdeaProjects\javaproject\src\main\java\org\example\Main.java,3,331,Position literals first in String comparisons,Best Practices,LiteralsFirstInComparisons
+45,org.example,C:\Users\yfeer\IdeaProjects\javaproject\src\main\java\org\example\Main.java,3,333,Position literals first in String comparisons,Best Practices,LiteralsFirstInComparisons
+1,org.example,C:\Users\yfeer\IdeaProjects\javaproject\src\main\java\org\example\SecurityUtils.java,3,7,All methods are static. Consider adding a private no-args constructor to prevent instantiation.,Design,UseUtilityClass
+2,org.example,C:\Users\yfeer\IdeaProjects\javaproject\src\main\java\org\example\SecurityUtils.java,3,25,Thrown exception does not preserve the stack trace of exception 'e' on all code paths,Best Practices,PreserveStackTrace
+3,org.example,C:\Users\yfeer\IdeaProjects\javaproject\src\main\java\org\example\SecurityUtils.java,3,31,This statement should have braces,Code Style,ControlStatementBraces
+4,org.example,C:\Users\yfeer\IdeaProjects\javaproject\src\main\java\org\example\SecurityUtils.java,4,33,"Use one line for each declaration, it enhances code readability.",Best Practices,OneDeclarationPerLine
+5,org.example,C:\Users\yfeer\IdeaProjects\javaproject\src\main\java\org\example\SecurityUtils.java,3,35,This statement should have braces,Code Style,ControlStatementBraces
+6,org.example,C:\Users\yfeer\IdeaProjects\javaproject\src\main\java\org\example\SecurityUtils.java,3,36,This statement should have braces,Code Style,ControlStatementBraces
+7,org.example,C:\Users\yfeer\IdeaProjects\javaproject\src\main\java\org\example\SecurityUtils.java,3,37,This statement should have braces,Code Style,ControlStatementBraces
+8,org.example,C:\Users\yfeer\IdeaProjects\javaproject\src\main\java\org\example\SecurityUtils.java,3,38,This statement should have braces,Code Style,ControlStatementBraces
+1,org.example,C:\Users\yfeer\IdeaProjects\javaproject\src\main\java\org\example\ShipTrackSystem.java,4,15,"Use one line for each declaration, it enhances code readability.",Best Practices,OneDeclarationPerLine
+2,org.example,C:\Users\yfeer\IdeaProjects\javaproject\src\main\java\org\example\ShipTrackSystem.java,3,22,This statement should have braces,Code Style,ControlStatementBraces
+3,org.example,C:\Users\yfeer\IdeaProjects\javaproject\src\main\java\org\example\ShipTrackSystem.java,3,61,Thrown exception does not preserve the stack trace of exception 'e' on all code paths,Best Practices,PreserveStackTrace
+4,org.example,C:\Users\yfeer\IdeaProjects\javaproject\src\main\java\org\example\ShipTrackSystem.java,4,87,Useless parentheses around `user.getMaxLoginAttempts() - user.getFailedAtte...`.,Code Style,UselessParentheses
+5,org.example,C:\Users\yfeer\IdeaProjects\javaproject\src\main\java\org\example\ShipTrackSystem.java,3,148,This statement should have braces,Code Style,ControlStatementBraces
+6,org.example,C:\Users\yfeer\IdeaProjects\javaproject\src\main\java\org\example\ShipTrackSystem.java,3,203,Position literals first in String comparisons,Best Practices,LiteralsFirstInComparisons
+7,org.example,C:\Users\yfeer\IdeaProjects\javaproject\src\main\java\org\example\ShipTrackSystem.java,3,203,Position literals first in String comparisons,Best Practices,LiteralsFirstInComparisons
+8,org.example,C:\Users\yfeer\IdeaProjects\javaproject\src\main\java\org\example\ShipTrackSystem.java,3,203,Position literals first in String comparisons,Best Practices,LiteralsFirstInComparisons
+9,org.example,C:\Users\yfeer\IdeaProjects\javaproject\src\main\java\org\example\ShipTrackSystem.java,3,219,Position literals first in String comparisons,Best Practices,LiteralsFirstInComparisons
+10,org.example,C:\Users\yfeer\IdeaProjects\javaproject\src\main\java\org\example\ShipTrackSystem.java,3,219,Position literals first in String comparisons,Best Practices,LiteralsFirstInComparisons
+11,org.example,C:\Users\yfeer\IdeaProjects\javaproject\src\main\java\org\example\ShipTrackSystem.java,3,219,Position literals first in String comparisons,Best Practices,LiteralsFirstInComparisons
+12,org.example,C:\Users\yfeer\IdeaProjects\javaproject\src\main\java\org\example\ShipTrackSystem.java,3,230,This statement should have braces,Code Style,ControlStatementBraces
+13,org.example,C:\Users\yfeer\IdeaProjects\javaproject\src\main\java\org\example\ShipTrackSystem.java,3,231,This statement should have braces,Code Style,ControlStatementBraces
+14,org.example,C:\Users\yfeer\IdeaProjects\javaproject\src\main\java\org\example\ShipTrackSystem.java,3,287,This statement should have braces,Code Style,ControlStatementBraces
+15,org.example,C:\Users\yfeer\IdeaProjects\javaproject\src\main\java\org\example\ShipTrackSystem.java,3,399,This statement should have braces,Code Style,ControlStatementBraces
+16,org.example,C:\Users\yfeer\IdeaProjects\javaproject\src\main\java\org\example\ShipTrackSystem.java,3,405,Position literals first in String comparisons,Best Practices,LiteralsFirstInComparisons
+1,,C:\Users\yfeer\IdeaProjects\javaproject\src\test\java\SecurityUtilsTest.java,3,7,"All classes, interfaces, enums and annotations must belong to a named package",Code Style,NoPackage
+1,,C:\Users\yfeer\IdeaProjects\javaproject\src\test\java\ShipTrackSystemTest.java,3,12,"All classes, interfaces, enums and annotations must belong to a named package",Code Style,NoPackage
+2,,C:\Users\yfeer\IdeaProjects\javaproject\src\test\java\ShipTrackSystemTest.java,3,34,This statement should have braces,Code Style,ControlStatementBraces
+1,,C:\Users\yfeer\IdeaProjects\javaproject\src\test\java\ShipTrackTestSuite.java,3,11,"All classes, interfaces, enums and annotations must belong to a named package",Code Style,NoPackage
